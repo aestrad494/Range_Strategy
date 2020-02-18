@@ -1,0 +1,5 @@
+symbol,market,init_margin,maint_margin,leverage,tick_size,comm_value,digits,exchange,slippage
+ES,futures,4928,3942,50,0.25,2.05,2,GLOBEX,1
+NQ,futures,4500,3600,20,0.25,2.05,2,GLOBEX,1
+RTY,futures,2550,2040,50,0.1,2.05,1,GLOBEX,1
+CL,futures,6540,4360,1000,0.01,2.37,2,NYMEX,1
